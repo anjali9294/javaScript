@@ -1,0 +1,26 @@
+.container-3{
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.flex-box-rps{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+#flex-box-rps-div img:hover{
+    margin: 10px;
+    box-shadow: 0 10px 50px rgba(63, 49, 141, 0.7);
+
+}
+.flex-box-rps img{
+    margin: 10px;
+    box-shadow: 0 10px 50px rgba(0, 0,0, 0.7);
+
+}
